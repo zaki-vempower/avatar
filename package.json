@@ -32,7 +32,7 @@
   },
   "peerDependencies": {
     "react": "17.0.2",
-    "styled-components": "^3.2.6"
+    "styled-components": "3.4.9"
   },
   "devDependencies": {
     "@atlaskit/build-utils": "^2.2.7",
